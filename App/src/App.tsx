@@ -1,5 +1,5 @@
 import './App.css'
-import { Controlled, Fahrenheit, Fahrenheit2, GeolocationContainer, HOCComponent, Input, Input2, Kelvin, Kelvin2, SearchInput, SearchInput2, StarWarsPeople, TabsContainer, ThreeTitle, Title, Uncontrolled, Uncontrolled2, Uncontrolled3 } from '@examples/index.ts';
+import { Notes, Controlled, Fahrenheit, Fahrenheit2, GeolocationContainer, HOCComponent, Input, Input2, Kelvin, Kelvin2, SearchInput, SearchInput2, StarWarsPeople, TabsContainer, ThreeTitle, Title, Uncontrolled, Uncontrolled2, Uncontrolled3, ToDo } from '@examples/index.ts';
 function App() {
 
   return (
@@ -100,6 +100,14 @@ function App() {
       <div>
         <span>Uncontrolled3: </span>
         <Uncontrolled3 />
+      </div> */}
+
+      {/* <div>
+        <Notes />
+      </div> */}
+
+      {/* <div>
+        <ToDo />
       </div> */}
     </>
   )
