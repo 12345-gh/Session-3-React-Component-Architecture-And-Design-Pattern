@@ -58,7 +58,7 @@ Add navigation between steps (Next/Previous buttons) with proper state managemen
 ### Optional Challenges:
 - Add a "Show/Hide Password" toggle for password fields.
 - Display password strength indicators.
-- Save form data in localStorage, sessionStorage or use [https://www.npmjs.com/package/json-server](json-server).
+- Save form data in localStorage, sessionStorage or use [json-server](https://www.npmjs.com/package/json-server).
 - Add a "Remember Me" checkbox for the Sign In form.
 - Make the forms responsive for different screen sizes.
 - Add useful ReadMe.
