@@ -1,0 +1,1 @@
+export { default as HOCComponent } from './1.1_MyComponent'
